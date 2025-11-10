@@ -11,3 +11,4 @@ Pillow>=9.0.0
 jupyter>=1.0.0
 ipykernel>=6.0.0
 segmentation-models-pytorch>=0.3.0
+pyyaml>=6.0
